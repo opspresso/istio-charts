@@ -1,11 +1,5 @@
 # istio-charts
 
-## create chart
-
-```bash
-
-```
-
 ## usage
 
 ```bash
